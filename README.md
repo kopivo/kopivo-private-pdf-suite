@@ -70,12 +70,6 @@ Kopivo operates on a **No-Log, No-Cloud** mandate:
 
 ---
 
-## 🚀 Future Vision (Roadmap)
-- [ ] **Local AI-OCR:** Optical Character Recognition using Tesseract.js to extract text from scanned documents without cloud APIs.
-- [ ] **Smart Redaction:** Automated detection and blurring of sensitive data (PII) using local machine learning.
-
----
-
 ## 💬 Support & Contribution
 Kopivo is built to make the web private again.
 1. **Star this Repo:** Help others find a secure alternative to cloud-based editors.
